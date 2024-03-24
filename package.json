@@ -1,0 +1,15 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "BinarySearch.js",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^1.4.0"
+  }
+}
